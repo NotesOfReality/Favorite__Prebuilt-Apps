@@ -3,7 +3,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE := MiXplorer
 LOCAL_MODULE_TAGS := optional
-LOCAL_SRC_FILES :=  MiXplorer_v6.32.6_B--19-01-2017.apk
+LOCAL_SRC_FILES :=  MiXplorer_v6.32.8_B--22-01-2019.apk
 LOCAL_PACKAGE_NAME := MiXplorer
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_OVERRIDES_PACKAGES := CMFileManager Amaze AmazeFM crDroidFileManager
