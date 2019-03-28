@@ -3,7 +3,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE := Retro-Music
 LOCAL_MODULE_TAGS := optional
-LOCAL_SRC_FILES := Retro-Music_app-sans-release.apk
+LOCAL_SRC_FILES := Retro-Music_app-normal-release.apk
 LOCAL_PACKAGE_NAME := RetroMusic
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_OVERRIDES_PACKAGES := Music MusicPlayer SnapdragonMusic crDroidMusic Phonograph Eleven VanillaMusic
