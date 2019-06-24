@@ -2,4 +2,5 @@
 PRODUCT_PACKAGES += \
 	EnhancedIME\
 	Google-Markup-Port-O\
-	MiXplorer
+	MiXplorer \
+	Vinyl-Music-Player
